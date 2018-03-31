@@ -1,0 +1,17 @@
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.exe.config
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.exe
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.pdb
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.csprojResolveAssemblyReference.cache
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.csproj.CoreCompileInputs.cache
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.exe
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.pdb
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ChatApplication.dll
+D:\Mentoring Epam D2\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ChatApplication.pdb
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.exe.config
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.exe
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ServerConsoleApp.pdb
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ChatApplication.dll
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\bin\Debug\ChatApplication.pdb
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.exe
+C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ServerConsoleApp\obj\Debug\ServerConsoleApp.pdb
