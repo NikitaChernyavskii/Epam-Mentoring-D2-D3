@@ -54,13 +54,10 @@ namespace ChatApplication.Server
                         {
                             Login(clientSocket, loginMessage);
                         }
-                        //else
-                        //{
-                            while (true)
-                            {
-                                StartListenConnection(clientSocket);
-                            }
-                        //}
+                        while (true)
+                        {
+                            StartListenConnection(clientSocket);
+                        }
                     }
                 ).Start();
         }

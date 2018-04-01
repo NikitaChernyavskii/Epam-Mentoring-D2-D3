@@ -9,3 +9,8 @@ C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ChatApplication\b
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.dll
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.pdb
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ChatApplication\bin\Debug\ChatApplication.dll
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ChatApplication\bin\Debug\ChatApplication.pdb
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.dll
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ChatApplication\obj\Debug\ChatApplication.pdb

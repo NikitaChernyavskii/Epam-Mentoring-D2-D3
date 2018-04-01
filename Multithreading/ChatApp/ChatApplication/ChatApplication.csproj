@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Client\Client.cs" />
-    <Compile Include="Client\ClientAsync.cs" />
     <Compile Include="Common\IReadSocketResponseService.cs" />
     <Compile Include="Common\ReadSocketResponseService.cs" />
     <Compile Include="Models\ClientInfo.cs" />
@@ -49,7 +48,6 @@
     <Compile Include="Server\ILoginService.cs" />
     <Compile Include="Server\LoginService.cs" />
     <Compile Include="Server\Server.cs" />
-    <Compile Include="Server\ServerAsync.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

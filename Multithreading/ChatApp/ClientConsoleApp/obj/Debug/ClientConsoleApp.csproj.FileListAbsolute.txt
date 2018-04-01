@@ -15,3 +15,11 @@ C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ClientConsoleApp\
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.csprojResolveAssemblyReference.cache
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
 C:\Users\Tanti\Desktop\_mentoring tasks\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe.config
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\bin\Debug\ClientConsoleApp.pdb
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\bin\Debug\ChatApplication.dll
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\bin\Debug\ChatApplication.pdb
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
+E:\Epam\_mentoring d2 repo\Multithreading\ChatApp\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb
