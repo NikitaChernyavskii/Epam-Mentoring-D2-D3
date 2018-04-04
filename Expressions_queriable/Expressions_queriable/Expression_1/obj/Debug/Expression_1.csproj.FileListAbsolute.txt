@@ -1,0 +1,7 @@
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\bin\Debug\Expression_1.exe.config
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\bin\Debug\Expression_1.exe
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\bin\Debug\Expression_1.pdb
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\obj\Debug\Expression_1.csprojResolveAssemblyReference.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\obj\Debug\Expression_1.csproj.CoreCompileInputs.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\obj\Debug\Expression_1.exe
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Expression_1\obj\Debug\Expression_1.pdb
