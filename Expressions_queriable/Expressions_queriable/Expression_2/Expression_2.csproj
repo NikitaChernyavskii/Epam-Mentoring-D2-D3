@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6964A681-1476-47DD-AD58-AE3C2E648961}</ProjectGuid>
+    <ProjectGuid>{0B475EC5-67F9-41BA-A83D-5EC2B6D6CE31}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Expression_1</RootNamespace>
-    <AssemblyName>Expression_1</AssemblyName>
+    <RootNamespace>Expression_2</RootNamespace>
+    <AssemblyName>Expression_2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Expression\IncrDecrVisitor.cs" />
-    <Compile Include="Expression\LambdaNameValue.cs" />
-    <Compile Include="Expression\LambdaVisitor.cs" />
+    <Compile Include="Mapping\Mapper.cs" />
+    <Compile Include="Mapping\MappingGenerator.cs" />
+    <Compile Include="Models\CarEntity.cs" />
+    <Compile Include="Models\CarModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,8 @@
+﻿namespace Expression_2.Models
+{
+    public class CarEntity
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}

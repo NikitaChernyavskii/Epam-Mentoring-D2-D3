@@ -3,11 +3,11 @@ using Expression1 = System.Linq.Expressions.Expression;
 
 namespace Expression_1.Expression
 {
-    public class CustomVisitor : ExpressionVisitor
+    public class IncrDecrVisitor : ExpressionVisitor
     {
         protected override Expression1 VisitBinary(BinaryExpression node)
         {
-            if (node.NodeType != ExpressionType.Add && node.NodeType != ExpressionType.Negate)
+            if (node.NodeType != ExpressionType.Add && node.NodeType != ExpressionType.Subtract)
             {
                 return base.VisitBinary(node);
             }
