@@ -7,67 +7,135 @@ using System.Threading.Tasks;
 
 namespace Sample03
 {
-	public class ExpressionToFTSRequestTranslator : ExpressionVisitor
-	{
-		StringBuilder resultString;
+    public class ExpressionToFTSRequestTranslator : ExpressionVisitor
+    {
+        StringBuilder resultString;
 
-		public string Translate(Expression exp)
-		{
-			resultString = new StringBuilder();
-			Visit(exp);
+        public string Translate(Expression exp)
+        {
+            resultString = new StringBuilder();
+            Visit(exp);
 
-			return resultString.ToString();
-		}
+            return resultString.ToString();
+        }
 
-		protected override Expression VisitMethodCall(MethodCallExpression node)
-		{
-			if (node.Method.DeclaringType == typeof(Queryable)
-				&& node.Method.Name == "Where")
-			{
-				var predicate = node.Arguments[1];
-				Visit(predicate);
+        protected override Expression VisitMethodCall(MethodCallExpression node)
+        {
+            if (node.Method.DeclaringType == typeof(Queryable)
+                && (node.Method.Name == "Where"))
+            {
+                var predicate = node.Arguments[1];
+                Visit(predicate);
 
-				return node;
-			}
-			return base.VisitMethodCall(node);
-		}
+                return node;
+            }
 
-		protected override Expression VisitBinary(BinaryExpression node)
-		{
-			switch (node.NodeType)
-			{
-				case ExpressionType.Equal:
-					if (!(node.Left.NodeType == ExpressionType.MemberAccess))
-						throw new NotSupportedException(string.Format("Left operand should be property or field", node.NodeType));
+            if (node.Method.DeclaringType == typeof(string)
+                && (node.Method.Name == "StartsWith"))
+            {
+                return ProcessStartsWith(node);
+            }
 
-					if (!(node.Right.NodeType == ExpressionType.Constant))
-						throw new NotSupportedException(string.Format("Right operand should be constant", node.NodeType));
+            if (node.Method.DeclaringType == typeof(string)
+                && (node.Method.Name == "EndsWith"))
+            {
+                return ProcessEndsWith(node);
+            }
 
-					Visit(node.Left);
-					resultString.Append("(");
-					Visit(node.Right);
-					resultString.Append(")");
-					break;
+            if (node.Method.DeclaringType == typeof(string)
+                && (node.Method.Name == "Contains"))
+            {
+                return ProcessContains(node);
+            }
 
-				default:
-					throw new NotSupportedException(string.Format("Operation {0} is not supported", node.NodeType));
-			};
+            return base.VisitMethodCall(node);
+        }
 
-			return node;
-		}
+        protected override Expression VisitBinary(BinaryExpression node)
+        {
+            switch (node.NodeType)
+            {
+                case ExpressionType.Equal:
+                    if (node.Left.NodeType == ExpressionType.MemberAccess && node.Right.NodeType == ExpressionType.Constant)
+                    {
+                        Visit(node.Left);
+                        resultString.Append("(");
+                        Visit(node.Right);
+                        resultString.Append(")");
+                        break;
+                    }
 
-		protected override Expression VisitMember(MemberExpression node)
-		{
-			resultString.Append(node.Member.Name).Append(":");
+                    if (node.Right.NodeType == ExpressionType.MemberAccess && node.Left.NodeType == ExpressionType.Constant)
+                    {
+                        Visit(node.Right);
+                        resultString.Append("(");
+                        Visit(node.Left);
+                        resultString.Append(")");
+                        break;
+                    }
 
-			return base.VisitMember(node);
-		}
+                    break;
+                case ExpressionType.AndAlso:
+                    Visit(node.Left);
+                    resultString.Append(" AND ");
+                    Visit(node.Right);
+                    break;
 
-		protected override Expression VisitConstant(ConstantExpression node)
-		{
-			resultString.Append(node.Value);
+                default:
+                    throw new NotSupportedException(string.Format("Operation {0} is not supported", node.NodeType));
+            };
 
-			return node;
-		}
-	}
+            return node;
+        }
+
+        protected override Expression VisitMember(MemberExpression node)
+        {
+            resultString.Append(node.Member.Name).Append(":");
+
+            return base.VisitMember(node);
+        }
+
+        protected override Expression VisitConstant(ConstantExpression node)
+        {
+            resultString.Append(node.Value);
+
+            return node;
+        }
+
+        private Expression ProcessStartsWith(MethodCallExpression node)
+        {
+            var memberAccess = (MemberExpression)node.Object;
+            resultString.Append($"{memberAccess.Member.Name}:");
+            resultString.Append("(");
+            var valueExpression = node.Arguments[0];
+            Visit(valueExpression);
+            resultString.Append("*)");
+
+            return node;
+        }
+
+        private Expression ProcessEndsWith(MethodCallExpression node)
+        {
+            var memberAccess = (MemberExpression)node.Object;
+            resultString.Append($"{memberAccess.Member.Name}:");
+            resultString.Append("(*");
+            var valueExpression = node.Arguments[0];
+            Visit(valueExpression);
+            resultString.Append(")");
+
+            return node;
+        }
+
+        private Expression ProcessContains(MethodCallExpression node)
+        {
+            var memberAccess = (MemberExpression)node.Object;
+            resultString.Append($"{memberAccess.Member.Name}:");
+            resultString.Append("(*");
+            var valueExpression = node.Arguments[0];
+            Visit(valueExpression);
+            resultString.Append("*)");
+
+            return node;
+        }
+    }
 }

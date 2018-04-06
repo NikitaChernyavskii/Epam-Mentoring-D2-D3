@@ -1,4 +1,5 @@
-﻿using Expression_2.Mapping;
+﻿using System;
+using Expression_2.Mapping;
 using Expression_2.Models;
 
 namespace Expression_2
@@ -17,6 +18,9 @@ namespace Expression_2
             };
 
             CarModel res = mapper.Map(carnEntity);
+            Console.WriteLine($"Id: {res.Id} Name: { res.Name}");
+
+            Console.ReadLine();
         }
     }
 }
