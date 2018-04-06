@@ -1,0 +1,15 @@
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Sample03.dll.config
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Sample03.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Sample03.pdb
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Newtonsoft.Json.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\System.Net.Http.Extensions.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\System.Net.Http.Primitives.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\Newtonsoft.Json.xml
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\System.Net.Http.Extensions.xml
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\bin\Debug\System.Net.Http.Primitives.xml
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\obj\Debug\Sample03.csproj.App.config
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\obj\Debug\Sample03.csprojResolveAssemblyReference.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\obj\Debug\Sample03.csproj.CoreCompileInputs.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\obj\Debug\Sample03.dll
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\Expressions_queriable\Expressions_queriable\Sample03\obj\Debug\Sample03.pdb
