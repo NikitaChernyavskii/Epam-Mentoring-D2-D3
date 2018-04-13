@@ -4,3 +4,9 @@ D:\Mentoring Epam D2\Mentoring Epam D2 Repository\unmanaged code\PowerStatManage
 D:\Mentoring Epam D2\Mentoring Epam D2 Repository\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.csproj.CoreCompileInputs.cache
 D:\Mentoring Epam D2\Mentoring Epam D2 Repository\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.exe
 D:\Mentoring Epam D2\Mentoring Epam D2 Repository\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.pdb
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\bin\Debug\PowerStatManagement.exe.config
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\bin\Debug\PowerStatManagement.exe
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\bin\Debug\PowerStatManagement.pdb
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.exe
+E:\Epam\_mentoring d2 repo\unmanaged code\PowerStatManagement\PowerStatManagement\obj\Debug\PowerStatManagement.pdb

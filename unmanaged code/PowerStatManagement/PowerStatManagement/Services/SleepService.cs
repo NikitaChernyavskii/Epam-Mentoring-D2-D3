@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 using PowerStateManagement.Models;
+using PowerStatManagement.Services;
 
 namespace PowerStateManagement.Services
 {
-    public class SleepService
+    [ComVisible(true)]
+    [Guid("f930038e-f6b5-4425-9bcc-2a02b4495559")]
+    [ClassInterface(ClassInterfaceType.None)]
+    public class SleepService : ISleepService
     {
         private const int SystemBatteryState = 5;
         private const int SystemPowerInformation = 12;
