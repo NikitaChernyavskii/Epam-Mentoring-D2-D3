@@ -1,0 +1,6 @@
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\bin\Debug\Service.pdb
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\obj\Debug\Service.pdb
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\bin\Debug\Service.exe.config
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\bin\Debug\Service.exe
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\win service\WindowsService\Service\obj\Debug\Service.exe
