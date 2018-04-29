@@ -1,1 +1,4 @@
-installutil.exe "E:\Epam\_mentoring d2 repo\win service\WindowsService\ServiceApp\bin\Debug\ServiceApp.exe"
+C:
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+installutil.exe  "E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe"
+installutil.exe -u  "E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe"
