@@ -17,6 +17,7 @@
             {
                 components.Dispose();
             }
+            _fileSystemWatcherService.Dispose();
             base.Dispose(disposing);
         }
 

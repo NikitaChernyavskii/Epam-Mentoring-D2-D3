@@ -1,5 +1,6 @@
 ﻿using System.ServiceProcess;
 using Service.Services;
+using System;
 
 namespace ServiceApp
 {

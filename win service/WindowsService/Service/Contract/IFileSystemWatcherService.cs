@@ -1,6 +1,8 @@
-﻿namespace Service.Contract
+﻿using System;
+
+namespace Service.Contract
 {
-    internal interface IFileSystemWatcherService
+    internal interface IFileSystemWatcherService : IDisposable
     {
         void WatchFolder();
     }
