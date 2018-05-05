@@ -1,0 +1,186 @@
+﻿Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe assembly.
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Creating EventLog source FileService in log Application...
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Restoring event log to previous state for source FileService.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Creating EventLog source FileService in log Application...
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Restoring event log to previous state for source FileService.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Creating EventLog source FileService in log Application...
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Restoring event log to previous state for source FileService.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Service FileService has been successfully installed.
+Creating EventLog source FileService in log Application...
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Creating EventLog source FileService in log Application...
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Restoring event log to previous state for source FileService.
+Uninstalling assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Removing EventLog source FileService.
+Service FileService is being removed from the system...
+Service FileService was successfully removed from the system.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Service FileService has been successfully installed.
+Creating EventLog source FileService in log Application...
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Uninstalling assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Removing EventLog source FileService.
+Service FileService is being removed from the system...
+Service FileService was successfully removed from the system.
+Attempt to stop service FileService.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Service FileService has been successfully installed.
+Creating EventLog source FileService in log Application...
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Uninstalling assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Removing EventLog source FileService.
+Service FileService is being removed from the system...
+Service FileService was successfully removed from the system.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Service FileService has been successfully installed.
+Creating EventLog source FileService in log Application...
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Uninstalling assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Removing EventLog source FileService.
+Service FileService is being removed from the system...
+Service FileService was successfully removed from the system.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Creating EventLog source FileService in log Application...
+Rolling back assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Restoring event log to previous state for source FileService.
+Installing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+Installing service FileService...
+Service FileService has been successfully installed.
+Creating EventLog source FileService in log Application...
+Committing assembly 'E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.InstallLog
+   assemblypath = E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe

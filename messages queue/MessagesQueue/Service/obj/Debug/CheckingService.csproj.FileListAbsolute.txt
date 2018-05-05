@@ -1,0 +1,7 @@
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\obj\Debug\Service.ProjectInstaller.resources
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\obj\Debug\CheckingService.csproj.GenerateResource.Cache
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\bin\Debug\CheckingService.exe.config
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\bin\Debug\CheckingService.exe
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\bin\Debug\CheckingService.pdb
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\obj\Debug\CheckingService.exe
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\Service\obj\Debug\CheckingService.pdb

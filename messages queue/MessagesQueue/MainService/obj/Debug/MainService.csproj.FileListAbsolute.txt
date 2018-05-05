@@ -1,0 +1,5 @@
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\MainService\bin\Debug\MainService.exe.config
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\MainService\bin\Debug\MainService.exe
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\MainService\bin\Debug\MainService.pdb
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\MainService\obj\Debug\MainService.exe
+E:\Epam\_mentoring d2 repo\messages queue\MessagesQueue\MainService\obj\Debug\MainService.pdb
