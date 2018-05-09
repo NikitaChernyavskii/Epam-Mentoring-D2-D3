@@ -10,19 +10,12 @@ namespace MainService
         /// </summary>
         static void Main()
         {
-            //ServiceBase[] ServicesToRun;
-            //ServicesToRun = new ServiceBase[]
-            //{
-            //    new MainService()
-            //};
-            //ServiceBase.Run(ServicesToRun);
-
-            QueueService queueService = new QueueService();
-            string m = queueService.ReceiveMessage();
-
-            System.Console.WriteLine(m);
-
-            System.Console.ReadLine();
+            ServiceBase[] ServicesToRun;
+            ServicesToRun = new ServiceBase[]
+            {
+                new MainService()
+            };
+            ServiceBase.Run(ServicesToRun);
         }
     }
 }

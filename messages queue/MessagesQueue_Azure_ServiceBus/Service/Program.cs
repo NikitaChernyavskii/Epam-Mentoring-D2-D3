@@ -7,12 +7,7 @@ namespace ServiceApp
     {
         static void Main(string[] args)
         {
-            FileSystemWatcherService s = new FileSystemWatcherService();
-            s.WatchFolder();
-            //ServiceBase.Run(new FileService());
-
-
-            System.Console.ReadLine();
+            ServiceBase.Run(new FileService());
         }
     }
 }
