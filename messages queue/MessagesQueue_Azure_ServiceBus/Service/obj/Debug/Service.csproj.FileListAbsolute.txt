@@ -1,0 +1,7 @@
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe.config
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.exe
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\bin\Debug\Service.pdb
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\obj\Debug\Service.ProjectInstaller.resources
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\obj\Debug\Service.exe
+E:\Epam\_mentoring d2 repo\win service\WindowsService\Service\obj\Debug\Service.pdb
