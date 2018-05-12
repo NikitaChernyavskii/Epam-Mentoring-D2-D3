@@ -1,23 +1,21 @@
-﻿using System;
-using System.Configuration;
+﻿using System.Configuration;
 using System.IO;
 using Service.Contract;
-using Microsoft.ServiceBus.Messaging;
-using Microsoft.ServiceBus;
+using System.Text;
+using Microsoft.Azure.EventHubs;
 
 namespace Service.Services
 {
     public class FileSystemWatcherService : IFileSystemWatcherService
     {
-        const string queueName = "CheckFilesQueue";
-        private QueueClient _queueClient;
         private FileSystemWatcher _watcher;
+        private EventHubClient _eventHubClient;
+        private string _eventHubConnectionString = "Endpoint=sb://filecheckeventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=TkIJuV86DQvTce1h2wF8xW6Gn/Yout7s4gF6HBOzylw=";
 
         public FileSystemWatcherService()
         {
             _watcher = new FileSystemWatcher(ConfigurationManager.AppSettings["FolderPath"]);
-            InitializeQueue();
-            _queueClient = QueueClient.Create(queueName);
+            InitializeEventHub();
         }
 
         public void WatchFolder()
@@ -30,25 +28,24 @@ namespace Service.Services
         public void Dispose()
         {
             _watcher.Dispose();
-            _queueClient.Close();
+            _eventHubClient.Close();
         }
 
         private void OnDirectoryChange(object source, FileSystemEventArgs e)
         {
-            var message = new BrokeredMessage($"File name: {e.Name}. ChangeType: {e.ChangeType}");
-            _queueClient.Send(message);
+            EventData eventData = new EventData(Encoding.UTF8.GetBytes($"File name: {e.Name}. ChangeType: {e.ChangeType}"));
+            _eventHubClient.SendAsync(eventData).Wait();
+
         }
 
-        private void InitializeQueue()
+        private void InitializeEventHub()
         {
-            NamespaceManager namespaceManager = NamespaceManager.Create();
-
-            if (namespaceManager.QueueExists(queueName))
+            var connectionStringBuilder = new EventHubsConnectionStringBuilder(_eventHubConnectionString)
             {
-                namespaceManager.DeleteQueue(queueName);
-            }
+                EntityPath = "FileCheckEventHubDemo"
+            };
 
-            namespaceManager.CreateQueue(queueName);
+            _eventHubClient = EventHubClient.CreateFromConnectionString(connectionStringBuilder.ToString());
         }
     }
 }
