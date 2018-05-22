@@ -1,0 +1,7 @@
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\obj\Debug\ConsoleXml.csprojResolveAssemblyReference.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\obj\Debug\ConsoleXml.csproj.CoreCompileInputs.cache
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\bin\Debug\ConsoleXml.exe.config
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\bin\Debug\ConsoleXml.exe
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\bin\Debug\ConsoleXml.pdb
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\obj\Debug\ConsoleXml.exe
+D:\Mentoring Epam D2\Mentoring Epam D2 Repository\xml\XmlSolution\ConsoleXml\obj\Debug\ConsoleXml.pdb
