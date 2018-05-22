@@ -1,0 +1,9 @@
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\bin\Debug\KeyGenerator.exe.config
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\bin\Debug\KeyGenerator.exe
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\bin\Debug\KeyGenerator.pdb
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\TheKeyGenerator.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\KeyGenerator.Form1.resources
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\KeyGenerator.Properties.Resources.resources
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\TheKeyGenerator.csproj.GenerateResource.Cache
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\KeyGenerator.exe
+E:\Epam\_mentoring d2 repo\debugging\Debugging\KeyGenerator\obj\Debug\KeyGenerator.pdb

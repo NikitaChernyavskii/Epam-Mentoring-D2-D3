@@ -1,0 +1,9 @@
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\bin\Debug\RestoredFromCrackMeExe.exe.config
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\bin\Debug\RestoredFromCrackMeExe.exe
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\bin\Debug\RestoredFromCrackMeExe.pdb
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoreFromCrackMeExe.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoredFromCrackMeExe.Form1.resources
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoredFromCrackMeExe.Properties.Resources.resources
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoreFromCrackMeExe.csproj.GenerateResource.Cache
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoredFromCrackMeExe.exe
+E:\Epam\_mentoring d2 repo\debugging\Debugging\RestoredFromCrackMeExe\obj\Debug\RestoredFromCrackMeExe.pdb
