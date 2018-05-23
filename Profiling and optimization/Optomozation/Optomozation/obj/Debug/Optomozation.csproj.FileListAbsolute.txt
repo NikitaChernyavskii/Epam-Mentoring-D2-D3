@@ -1,0 +1,6 @@
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\bin\Debug\Optomozation.exe.config
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\bin\Debug\Optomozation.exe
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\bin\Debug\Optomozation.pdb
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\obj\Debug\Optomozation.csprojResolveAssemblyReference.cache
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\obj\Debug\Optomozation.exe
+E:\Epam\_mentoring d2 repo\Profiling and optimization\Optomozation\Optomozation\obj\Debug\Optomozation.pdb
